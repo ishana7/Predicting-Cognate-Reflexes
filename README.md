@@ -2,7 +2,7 @@
 
 In 2022, SIGTYP is hosting a shared task on predicting words and morphemes from cognate words in related languages (Cognate Reflex Prediction Task). SIGTYP provides 20 cognate-coded multilingual wordlists (10 for development, and 10 withheld for testing) from which they have withheld varying amounts of cognate sets from which the systems provided by participants should later predict individual words and morphemes. The code they provide allows to transparently access the data from its standardized format, compute sample predictions with a baseline method, and to evaluate results with three evaluation metrics.
 
-# NOTE - This project is part of CS678 Advanced Natural Language Processing by Professor Antonios Anastasopoulos.
+#### NOTE - This project is part of CS678 Advanced Natural Language Processing by Professor Antonios Anastasopoulos.
 
 ## 1 The Reflex Prediction Task
 
